@@ -22,4 +22,4 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/HaziqHamzani/we45-app:latest
+            ghcr.io/haziq/we45-app:latest
